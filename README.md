@@ -4,7 +4,7 @@ This is a basic Kickstarter like clone that uses the Ethereum network for its ba
 
 The basic idea is that you have a main page that lists all current projects that everyone has created. You can donate to open projects that you like and you will become an "approver", as such you will have a say in how the project spends its money by approving or denying spending requests. The person who created the contract creates spending requests when they want to use some of the Ether in a contract for expenses. Approvers (people who donated to the campaign) either approve or deny said request and if the request gets over 50% approval it is able to be finalized by the manager and the ethereum is then spent.
 
-I may continue to add features and improvements to this app as time goes on, also I may try and create a production build and host it on a website. My main goal with this project was to learn the basics of Ethereum Dapp creation and then apply it to my own project. 
+I may continue to add features and improvements to this app as time goes on, also I may try and create a production build and host it on a website. My main goal with this project was to learn the basics of Ethereum Dapp creation and then apply what I now know to a larger project I am currently working on. 
 
 This app is in development. If you want to give it a try just do the following:
   1. Clone this project
