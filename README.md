@@ -10,4 +10,6 @@ This app is in development. If you want to give it a try just do the following:
   3. Once npm has a local server running navigate to http://localhost:3000
   
   
-You can view the app all you want but if you want to try out some features and create test campaigns you will need MetaMask and also in MetaMask you will need to create accounts on the Rinkby test network as this is the one we are using for development.
+You can view the app all you want but if you want to try out some features and create test campaigns you will need MetaMask and also in MetaMask you will need to create accounts on the Rinkby test network, as this is the one we are using for development.
+
+Hope you enjoy messing around with the app and also if you have the time perhaps give Dapp development a shot, its a lot of fun.
