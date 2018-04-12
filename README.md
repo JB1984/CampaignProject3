@@ -6,7 +6,7 @@ I may continue to add features and improvements to this app as time goes on, als
 
 This app is in development. If you want to give it a try just do the following:
   1. Clone this project
-  2. In the project folder open a console and type in "npm run dev"
+  2. In the project folder open a console and type in "npm run dev". Note you will need to have Node.js installed on your machine.
   3. Once npm has a local server running navigate to http://localhost:3000
   
   
